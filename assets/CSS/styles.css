@@ -395,6 +395,10 @@ footer p  {
 
 @media (max-width: 80rem) {
 
+     body {
+        font-size: 1rem;
+    }
+
     .intro-text-content h2 {
         font-size: 4rem;
     }

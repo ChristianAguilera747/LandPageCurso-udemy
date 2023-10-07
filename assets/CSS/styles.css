@@ -394,6 +394,14 @@ footer p  {
 }
 
 @media (max-width: 80rem) {
+
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 3rem;
+    }
     
     .intro-content, .grid {
         grid-template-columns: 1fr;
